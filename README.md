@@ -17,3 +17,8 @@ The purpose of this project is to demonstrate a full analytics workflow - Extrac
 **Columns**: Recipient, Activity name, Award amount, Decision date, Decision month, Decision quarter, ACE Area, Local authority, Main discipline, Time-Limited Priority. 
 
 Details for each column are included on the EXCEL cover page. 
+
+## <u>**Disclaimer**</u>
+
+*Framing Arts Council England Funds Painted by Numbers* is for educational purposes as part of the Code Institute Advanced Data Analytics, Visualisation and Machine Learning Summative Assessment 2. Thus, whilst this project aims to simulate a real world analysis it also integrates skills learned to complete the Data Analytics with AI Skills Diploma. 
+
