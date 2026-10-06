@@ -71,3 +71,5 @@ The questions below will move between descriptive and diagnostic analysis to pri
 *Standardise column names* - project.https://support.dataquest.io/en/articles/819-messy-column-names-here-s-how-to-fix-them-with-pandas
 
 *Convert data types* - https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
+
+*Time-stamp removal from date-time column* - https://stackoverflow.com/questions/16176996/keep-only-date-part-when-using-pandas-to-datetime
