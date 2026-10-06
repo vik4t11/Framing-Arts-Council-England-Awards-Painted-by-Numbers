@@ -47,3 +47,15 @@ An end‑to‑end analytical workflow, moves from raw data to an insightful dash
 **Machine‑learning model** - A multi-class classification model is trained and tested to predict award amount tiers because the datasets feature mostly categorical and one numerical column. Feature importance is assessed following an accuracy evaluation to understand which attributes determine the target result.  
 
 **Dashboard creation** - A Tableau dashboard frames visualisations and paints the numbers of year-on-year award amounts received between ACE areas, main diciplines and funding streams. Questions raised in the hypothesis are addressed in an accessible interactive storyline connecting the dots. The use of engineering a multi-class machine learning algorithm for stakeholders to identify patterns is also presented with details on model performance.   
+
+## **Hypothesis**
+
+The instinctual hypothesis motivating this project stems from a familiar question within the arts sector: is ACE awards fairly distributed across regions, artforms and funding‑streams? This assumption reflects anxieties many artists carry when navigating public funding systems.
+
+The questions below will move between descriptive and diagnostic analysis to primarily help understand *why award amounts differ?*
+
+1. *Are ACE National Lottery Project Grants unevenly distributed across geographic areas?* We expect to see certain ACE areas to consistently award higher amounts or a greater number of awards compared to other areas. To test this hypothesis award amounts are compared in a univariate and bivariate analysis in the EDA notebook. 
+
+2. *Do certain main diciplines receive more or less funding than others?* Systemic differences in award amounts are visible between main diciplnes.  
+
+3. *Can the size of award be predicted using categorical features?* Feature importance will reveal which attributes influence the ML Model prediction and thereby indicate structural patterns in award amounts.
