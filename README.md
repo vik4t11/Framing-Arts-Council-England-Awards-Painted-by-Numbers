@@ -31,3 +31,19 @@ To understand potential patterns, identify differences in distribution of awards
 2. **Descriptive Analysis** - the datasets are a record that tell what has happened in the past. Thus, this analysis is to observe where the money went and how much different diciplines received between 2023-2026. Stakeholders can access a dashboard to unpack selected visualisations from the EDA and ML Modeling notebooks. 
 
 3. **Actionble Insights** - Analytical discoveries translate into practical prompts for decision making. Whilst, a machine learning model assumes to predict future outcomes, it is a tool to understand the past for humans to make decisions in the future. Identifying artforms receiving investment, regional differences, and trends in funding streams can inform strategic outreach efforts, organisations applying for grants and applicants effectively positioning their projects. 
+
+## <u>**Project Plan**</u>
+
+An end‑to‑end analytical workflow, moves from raw data to an insightful dashboard visualisation presenting discoverings during the EDA and a simple machine‑learning model engineered to identify funding patterns.
+
+**Data collection** - Two public accessible ACE National Lottery Project Grants (2023-2024 and 2025-2026) datasets from the Arts Council website are loaded to complete this project. 
+
+**Extract, Transform, Load (ETL)** - Ensuring data integrity prior to analysis includes standardising column names, inspecting and addressing missing, unique or duplicate records. Reviewing DataTypes ensures numerical, date-time and categorical columns are compatible for plotting in the EDA notebook. The final step is to join the two datasets with an additional year column followed by dropping columns containing potential sensitive information to ensure it is compliant with ethical data handling. The DataFrame will be saved into the clean data folder.  
+
+**Exploratory Data Analysis (EDA)** - Patterns for award amounts are explored between ACE areas, main diciplines and funding streams using visuliation libraries - Pandas, NumPy Matplotlib and Seaborn - to plot boxplots, scatterplots, histograms and bar charts. 
+
+**Feature engineering** - The clean joined DataFrame is engineered in the Feature Engineering notebook preperation for the ML Modeling notebook. A multiclass classification model requires award amount to be transformed into a funding tiers target column. Data leakage from columns which can impact the quality of the model are dropped and a model DataFrame file is saved. 
+
+**Machine‑learning model** - A multi-class classification model is trained and tested to predict award amount tiers because the datasets feature mostly categorical and one numerical column. Feature importance is assessed following an accuracy evaluation to understand which attributes determine the target result.  
+
+**Dashboard creation** - A Tableau dashboard frames visualisations and paints the numbers of year-on-year award amounts received between ACE areas, main diciplines and funding streams. Questions raised in the hypothesis are addressed in an accessible interactive storyline connecting the dots. The use of engineering a multi-class machine learning algorithm for stakeholders to identify patterns is also presented with details on model performance.   
