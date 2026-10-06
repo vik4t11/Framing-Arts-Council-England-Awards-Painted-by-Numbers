@@ -59,3 +59,13 @@ The questions below will move between descriptive and diagnostic analysis to pri
 2. *Do certain main diciplines receive more or less funding than others?* Systemic differences in award amounts are visible between main diciplnes.  
 
 3. *Can the size of award be predicted using categorical features?* Feature importance will reveal which attributes influence the ML Model prediction and thereby indicate structural patterns in award amounts.
+
+## Credits 
+
+**Extract, Transform and Load**
+
+*Markdown for Jupyter Notebooks* https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+
+*Pandas Cheat Sheet* - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+*Standardise column names* - project.https://support.dataquest.io/en/articles/819-messy-column-names-here-s-how-to-fix-them-with-pandas
