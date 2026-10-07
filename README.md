@@ -85,3 +85,8 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 *Research multiple local authorities partnerships* https://www.artscouncil.org.uk/sites/default/files/2023-09/Place%20Partnership%20projects%20and%20Project%20Grants%20-%20Information%20sheet.pdf
 
 *How to concat pandas DataFrame* - https://stackoverflow.com/questions/73100882/how-to-concat-pandas-dataframe
+
+**Exploratory Data Analysis**
+
+*Plotting charts using different libraries** https://lms.codeinstitute.net/learner_module/show/125519?lesson_id=537117&section_id=2067795
+
