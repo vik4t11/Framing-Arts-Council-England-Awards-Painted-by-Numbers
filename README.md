@@ -74,7 +74,7 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 
 *Pandas Cheat Sheet* - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-*Standardise column names* - project.https://support.dataquest.io/en/articles/819-messy-column-names-here-s-how-to-fix-them-with-pandas
+*Standardise column names* - https://support.dataquest.io/en/articles/819-messy-column-names-here-s-how-to-fix-them-with-pandas
 
 *Convert data types* - https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
 
@@ -83,3 +83,5 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 *Research time-limited priority column* - https://www.artscouncil.org.uk/ProjectGrants/national-lottery-project-grants-guidance-library#t-in-page-nav-5
 
 *Research multiple local authorities partnerships* https://www.artscouncil.org.uk/sites/default/files/2023-09/Place%20Partnership%20projects%20and%20Project%20Grants%20-%20Information%20sheet.pdf
+
+*How to concat pandas DataFrame* - https://stackoverflow.com/questions/73100882/how-to-concat-pandas-dataframe
