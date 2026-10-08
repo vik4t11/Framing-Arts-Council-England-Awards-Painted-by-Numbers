@@ -111,3 +111,7 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 *Zero award amounts data quality check* - https://www.whatdotheyknow.com/request/discrepancies_3_ace_grants_for_t
 
 *Model selection to conclude EDA* - https://www.geeksforgeeks.org/machine-learning/tree-based-machine-learning-algorithms/
+
+**Feature Engineering**
+
+*Selecting classification tiers for award amount* - https://www.slideshare.net/slideshow/ch-7-tertile-quartile-and-percentiledoc/264658868
