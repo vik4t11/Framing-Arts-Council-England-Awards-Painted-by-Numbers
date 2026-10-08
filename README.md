@@ -98,5 +98,11 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 
 **Exploratory Data Analysis**
 
-*Plotting charts using different libraries** https://lms.codeinstitute.net/learner_module/show/125519?lesson_id=537117&section_id=2067795
+*Plotting charts using different libraries* https://lms.codeinstitute.net/learner_module/show/125519?lesson_id=537117&section_id=2067795
+
+*Distribution of wealth in Great Britain* - https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020
+
+*Indices of Deprivation in Birmingham* - https://cityobservatory.birmingham.gov.uk/pages/indices_of_deprivation_2025_in_birmingham/
+
+*Biggest cities by population in UK* - https://www.ciphr.com/infographics/biggest-cities-in-the-uk-by-population
 
