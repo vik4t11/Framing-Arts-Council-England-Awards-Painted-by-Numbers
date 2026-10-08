@@ -107,3 +107,5 @@ Data-time columns took a moment to adjust accordingly due to a misunderstanding 
 *Biggest cities by population in UK* - https://www.ciphr.com/infographics/biggest-cities-in-the-uk-by-population
 
 *Winsorization statistic technique to cap outliers* https://amplitude.com/explore/experiment/data-winsorization
+
+*Zero award amounts data quality check* https://www.whatdotheyknow.com/request/discrepancies_3_ace_grants_for_t
