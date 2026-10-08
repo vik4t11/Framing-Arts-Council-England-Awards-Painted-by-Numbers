@@ -60,6 +60,16 @@ The questions below will move between descriptive and diagnostic analysis to pri
 
 3. *Can the size of award be predicted using categorical features?* Feature importance will reveal which attributes influence the ML Model prediction and thereby indicate structural patterns in award amounts.
 
+## <u>**Analysis Techniques Used**</u>
+
+**Statistical Overview** - Numeric statistics are reviewed to identify mean, mode, percentiles and identify anomilies in columns which may require further inspection to ensure data quality and improve model performance.  
+
+**Univariate Analysis** - A histogram, boxplot and barcharts are used to visualise the distribution of awards across different numeric or categorical variables to determine whether National Lottery Project Grants vary between geographic areas and if certain main diciplines receive more or less funding. 
+
+**Bivariate Analysis** - Award amounts are visualised to show how much different categories received. This anlysis technique clarifies what was the exact amount recipients received. 
+
+**Outlier Inspection** - Anomolies identified in the statistical overview are inspected to ensure data quality and determine how they should be handled for the machine learning model.  
+
 ## Development Roadmap 
 
 **ETL** intially data types are converted in the notebook. However, missing values identified at the beginning were not handled prior to converting categorical columns into category which meant the time-limited piority column failed to convert from its default string data type. Thus, I took a step back to ensure the values contained in the rows are cleaned. 
